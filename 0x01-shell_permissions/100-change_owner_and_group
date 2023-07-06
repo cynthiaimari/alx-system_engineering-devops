@@ -1,2 +1,2 @@
 #!/bin/bash
-touch vincent staff | chown -hR vincent:staff
+touch vincent staff | chown -R vincent:staff
