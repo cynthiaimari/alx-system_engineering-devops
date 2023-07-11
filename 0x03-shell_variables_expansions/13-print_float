@@ -1,0 +1,2 @@
+#!/bin/bash
+formatted_num=$(printf "%.2f" "$NUM")
