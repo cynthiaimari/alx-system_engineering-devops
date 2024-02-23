@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . | git commit -m '0x04-loops_conditions_and_parsin' | git push
+git add . | git commit -m '0x05-processes_and_signals' | git push
